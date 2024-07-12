@@ -48,6 +48,6 @@ frontend  Yabia5martha.tech-https-frontend
 
 backend Yabia5martha.tech-backend
         balance roundrobin
-        server 914-web-01 44.210.150.159:80 check
-        server 914-web-02 35.173.47.15:80 check
+        server 914-web-01 34.232.53.104:80 check
+        server 914-web-02 54.83.129.157:80 check
 # end of parameters
