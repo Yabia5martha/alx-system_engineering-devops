@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+HostName 34.232.53.104
+Port        22
+User        ubuntu
